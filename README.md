@@ -17,8 +17,6 @@ Two sh files for simplify the deployment of the cloudformation script the follow
 - template body 
 - parameters body 
 
-## index.html
-HTML file to be add to the S3 bucket 
 
 ### usage sample:  
 
@@ -30,6 +28,11 @@ HTML file to be add to the S3 bucket
 ./update.sh udacity-aws-profile infra infrastructure.yml parameters.json
 ```
 
+## infrastructure-diagram.png
+The Diagram for the infrasctructure implemented
+
+## index.html
+HTML file to be add to the S3 bucket 
 
 ## Requirements to run project 
 
