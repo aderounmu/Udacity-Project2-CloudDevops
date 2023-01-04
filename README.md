@@ -12,7 +12,7 @@ In YAML code, the `${EnvironmentName}` would be substituted with `UdacityProject
 
 ## update.sh and create.sh 
 Two sh files for simplify the deployment of the cloudformation script the following parameters are required 
-- aws profile (specific default if non is created)
+- aws profile (use default if non is created)
 - stack name
 - template body 
 - parameters body 
